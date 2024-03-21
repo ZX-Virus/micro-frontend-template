@@ -1,0 +1,8 @@
+{
+  "name": "mf-vue",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/mf-vue/src",
+  "// targets": "to see all targets run: nx show project mf-vue --web",
+  "targets": {}
+}
