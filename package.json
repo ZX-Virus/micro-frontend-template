@@ -43,6 +43,7 @@
     "@nx/vite": "18.1.2",
     "@nx/vue": "18.1.2",
     "@nx/web": "18.1.2",
+    "@nx/webpack": "18.1.2",
     "@nx/workspace": "18.1.2",
     "@playwright/test": "^1.36.0",
     "@schematics/angular": "~17.2.0",
